@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Semana 3 - 1</string>
+    <string name="btnSendValue">Send</string>
+    <string name="btnEText"></string>
+    <string name="btnBackText">Back</string>
+    <string name="txtResultText">TextView</string>
+</resources>
